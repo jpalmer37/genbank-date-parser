@@ -1,2 +1,2 @@
-# genbank-date-parser
-Simple Python date parser. Intended for phylogenetic tree dating, such as with LSD2 in IQTree. 
+# Genbank Date Parser
+Simple Python date parser. Intended for phylogenetic tree dating, especially with LSD2 in IQTree. 
